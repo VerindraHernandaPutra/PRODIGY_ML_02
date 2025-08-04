@@ -1,4 +1,4 @@
-# PRODIGY_ML_2
+# PRODIGY_ML_02
 
 This repository holds the project for the second machine learning task of the Prodigy InfoTech internship.
 
